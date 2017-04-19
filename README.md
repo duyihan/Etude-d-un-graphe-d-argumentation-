@@ -1,5 +1,7 @@
 # Etude d'un graphe d'argumentation
 
+R,Python,Weka
+
 # Objectif:
 Evaluer la qualité d’un argument
 Trouver les noeuds les plus controversés
